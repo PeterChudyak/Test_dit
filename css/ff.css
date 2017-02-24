@@ -1,0 +1,110 @@
+h2 {
+    font-size: 50px;
+    font-family: Myriad Pro;
+    font-weight: Regular;
+    font-style: Italic;
+    color: darkslateblue;
+    line-height:50px;
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+    font-family: Myriad Pro;
+    font-weight: Regular;
+    font-style: Italic;
+    color: #616161;
+    line-height:30px; 
+    text-align: center;
+}
+.text {
+    font-size: 15px;
+    font-family: Myriad Pro;
+    font-weight: Regular;
+    font-style: Italic;
+    color: #616161;
+    line-height:15px; }
+
+.opacity {
+    opacity: 0.8;}
+.opacity:hover {
+    opacity: 1.0;}
+a:link {
+    color: red}
+a:hover {
+    color: lime}
+a:visited {
+    color: darkred;}
+.my-block {
+    border: 1px solid red;
+    background: lightskyblue;
+    display: ;
+    padding: 50px;
+    margin-bottom: 10px;   
+}
+.menu {
+    list-style: none;
+    list-style-position: inside;
+   
+}
+.menu1 {
+    display: inline; /* Отображать как строчный элемент */
+    margin-right: 5px; /* Отступ слева */
+    border: 1px solid #000; /* Рамка вокруг текста */
+    padding: 3px; /* Поля вокруг текста */
+}
+.bord {
+    position: relative;
+    margin-bottom: 5px;
+    border: 3px solid darkgreen;
+    border-radius: 10px; 
+    width: 1000px;
+    height: 600px;
+    background: lightslategrey
+}
+.t1 {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px; 
+    background: blue;
+}
+.t2 {
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    width: 50px;
+    height: 100px;
+    border-radius: 10px; 
+    background: yellow;
+}
+.p {
+    position: absolute;
+    bottom: -30px;
+    left: 350px;
+    width: 300px;
+    height: 25px;
+    border: 2px solid black;   
+}
+.r1 {
+    position: absolute;
+    left: 10px;
+    top: 3px;
+    width: 100px;
+    height: 20px;
+    background: linear-gradient(90deg, white, green );
+    border: 2px solid black;
+}
+.r2 {
+    position: absolute;
+    right: 10px;
+    top: 3px;
+    width: 100px;
+    height: 20px;
+    background: linear-gradient(90deg, white, blue );
+    border: 2px solid black;
+}
+
+
+

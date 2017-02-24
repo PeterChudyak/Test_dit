@@ -4,7 +4,7 @@ h1{
     font-family: Myriad Pro;
     font-weight: Bold; 
     font-style: Italic;
-    color: ffffff;
+    color: #ffffff;
     line-height:85px;
 }
 
@@ -13,7 +13,7 @@ h2{
     font-family: Myriad Pro;
     font-weight: Regular;
     font-style: Italic;
-    color: 313131;
+    color: #313131;
     line-height:80px;
 }
 
@@ -22,7 +22,7 @@ h3{
     font-family: Myriad Pro;
     font-weight: Regular;
     font-style: Italic;
-    color: 616161;
+    color: #616161;
     line-height:27px; 
 }
 
@@ -30,8 +30,8 @@ h4{
     font-size: 20px;
     font-family: Myriad Pro;
     font-weight: Regular;
-    font-style: Italic;
-    color: 616161;
+    font-style: Regular;
+    color: #616161;
     line-height:80px;  
 }
 h5{
@@ -39,27 +39,27 @@ h5{
     font-family: Myriad Pro;
     font-weight: Regular;
     font-style: Italic;
-    color: 616161;
+    color: #616161 
+    #fc5f45 1red
+    #38c695 1green
+    #b27cf5 1purple
+    #feb960 1yellow
+    #3f4049 fon
+    #cccccc fon2
+    #f7f7f7 fon3;
     line-height:80px;
 }
 
-color:
-fc5f45 red
-38c695 green
-b27cf5 purple
-feb960 yellow
-3f4049 fon
-cccccc fon2
-f7f7f7 fon3
 
-bottom: 
+
+.bottom {
     font-size: 16px;
     font-family: Myriad Pro;
     font-weight: Regular;
     font-style: Italic;
-    color: ffffff;
+    : #ffffff;
     line-height:80px;
-
-    color: fc5f45
-    height: 50px
+    color: #fc5f45
+    : 50px;
+}
 
